@@ -1,3 +1,6 @@
+# Deprecated, the function has been included in the Mediawiki core.
+See https://www.mediawiki.org/wiki/Parsoid#Installation
+
 Introduction
 ============
 
